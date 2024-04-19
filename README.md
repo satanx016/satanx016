@@ -1,3 +1,3 @@
-# **Generique: Toccata Fugue playing**- I use arch btw
+# Toccata Fugue theme playing...
 - I love theming my computer :3c
 - 大学ではコンピュータについて勉強しています！
