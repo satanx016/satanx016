@@ -1,5 +1,5 @@
 # Yet Another Vimmer...
-###### hitting that 100+ wpm with full motion control
+###### hitting that 100+ wpm with full vim motions control
 ![Shadow Moonlight Sonata](https://github.com/Satanx016/satanx016/blob/main/assets/shadowMoonlightSonata.gif "Moonlight Sonata 1st movement theme playing...")
 
 ### They said the devil is in the details 
