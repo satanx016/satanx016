@@ -1,12 +1,7 @@
-# Yet Another Vimmer...
-###### hitting that 120+ wpm with full vim motions control
-![Shadow Moonlight Sonata](https://github.com/Satanx016/satanx016/blob/main/assets/shadowMoonlightSonata.gif "Moonlight Sonata 1st movement theme playing...")
+hi there, just some `rand()`om guy obsessed with tweaking every little detail mostly in his compter-system..., for no real reason,
+wanna contribute to open-source, but that requires *actually finishing things*, maybe... in an alternate timeline where
+I have consistency installed.
 
-### They say the devil is in the details 
-- So he took that laptop
-- Freshly installed arch btw
-- And started ricing the hell out of any little detail in it
-  
-###### ...And since then, that boy hasn't been the same
-###### Maybe, the deeper you delve, the more it fascinates—but
-###### at what cost?
+**camus once said** "One must imagine Sisyphus with a .bashrc file—eternally tweaking, never satisfied, smiling through the syntax errors."
+
+🎻 *\*Sinister violin playing in the background...*\*🕯️
